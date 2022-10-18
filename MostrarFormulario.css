@@ -1,0 +1,30 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 609px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 404px;
+  margin: 0 auto 0 20px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  font-size: 1.125rem;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+}
